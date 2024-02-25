@@ -1,2 +1,2 @@
 [build]
-  command = "go build -o main"
+  command = "go build -o D:/CardGame/server/main"
