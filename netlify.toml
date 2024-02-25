@@ -1,3 +1,2 @@
 [build]
-  command = "GOOS=windows GOARCH=amd64 go build -o functions/handlers.exe handlers.go"
-  functions = "functions"
+  command = "GOARCH=amd64 GOOS=windows go build -o D:/CardGame/server/handlers/handlers.exe handlers.go"
