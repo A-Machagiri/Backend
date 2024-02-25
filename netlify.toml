@@ -1,2 +1,2 @@
 [build]
-  command = "GOARCH=amd64 GOOS=windows go build -o D:/CardGame/server/main main.go"
+  command = "go build -o D:/CardGame/server/main"
