@@ -1,3 +1,2 @@
 [build]
-  command = "GOARCH=amd64 GOOS=windows go build -o ./functions/myapp.exe ./main.go"
-  functions = "functions"
+  command = "go build -o main"
