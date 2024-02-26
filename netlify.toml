@@ -1,2 +1,2 @@
 [build]
-  command: "go build -o ./functions/main ./functions/main.go ./functions/start_handler.go ./functions/leaderboard_handler.go ./functions/leaderboard_desc_handler.go"
+  command = "go build -o ./functions/main ./functions/main.go ./functions/start_handler.go ./functions/leaderboard_handler.go ./functions/leaderboard_desc_handler.go"
